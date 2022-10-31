@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.RNProximity.react-native-proximity-merged_res-19:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.RNProximity.react-native-proximity-core-1.7.0-7:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.RNProximity.react-native-proximity-merged_res-19:/layout-v21/notification_action.xml",
+        "source": "com.RNProximity.react-native-proximity-core-1.7.0-7:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.RNProximity.react-native-proximity-merged_res-19:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.RNProximity.react-native-proximity-core-1.7.0-7:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.RNProximity.react-native-proximity-merged_res-19:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.RNProximity.react-native-proximity-core-1.7.0-7:/layout-v21/notification_template_icon_group.xml"
+    }
+]

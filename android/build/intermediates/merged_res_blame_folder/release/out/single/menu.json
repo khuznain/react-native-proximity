@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.RNProximity.react-native-proximity-merged_res-19:/menu/example_menu2.xml",
+        "source": "com.RNProximity.react-native-proximity-core-1.7.0-7:/menu/example_menu2.xml"
+    },
+    {
+        "merged": "com.RNProximity.react-native-proximity-merged_res-19:/menu/example_menu.xml",
+        "source": "com.RNProximity.react-native-proximity-core-1.7.0-7:/menu/example_menu.xml"
+    }
+]
